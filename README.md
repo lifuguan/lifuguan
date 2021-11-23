@@ -10,6 +10,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=blue)
 ![SKLearn](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikit-learn)
 
-[![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=lifuguan&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/lifuguan/lifuguan)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact)
+
+[![lifuguan's github stats](https://github-readme-stats.vercel.app/api?username=lifuguan&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/lifuguan/lifuguan)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lifuguan.lifuguan)
