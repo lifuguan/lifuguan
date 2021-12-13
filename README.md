@@ -1,7 +1,7 @@
 #### 📌 Current Active Projects
 
 * [Semantic Segmentation](https://github.com/lifuguan) 🎴 
-* [Simple Object Tracking](https://github.com/lifuguan) 🧿 
+* [Text Localization](https://github.com/lifuguan) 🧿 
 * [Self-Supervised Learning](https://github.com/lifuguan) 🎏 
 
 #### 🕹️ Tools
