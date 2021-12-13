@@ -10,8 +10,19 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=blue)
 ![SKLearn](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikit-learn)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact)
 
-[![lifuguan's github stats](https://github-readme-stats.vercel.app/api?username=lifuguan&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/lifuguan/lifuguan)
+#### 📟  Language and Profile
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lifuguan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### 📑 Top Repositories
+<a href="https://github.com/lifuguan/autonomus_transport_industrial_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lifuguan&repo=autonomus_transport_industrial_system&theme=buefy" />
+</a>
+<a href="https://github.com/lifuguan/AprilTag_Localization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lifuguan&repo=AprilTag_Localization&theme=buefy" />
+</a>
+
+
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lifuguan.lifuguan)
