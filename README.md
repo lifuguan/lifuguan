@@ -19,7 +19,7 @@
 <a href="https://github.com/lifuguan/autonomus_transport_industrial_system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lifuguan&repo=autonomus_transport_industrial_system&theme=buefy" />
 </a>
-<a href="https://github.com/lifuguan/AprilTag_Localization">
+<a href="https://github.com/lifuguan/SOLOv2-mmdet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lifuguan&repo=SOLOv2-mmdet&theme=buefy" />
 </a>
 
