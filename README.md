@@ -5,7 +5,7 @@
 - ⚗️ Research internship @ **[VIS, Baidu Inc.](https://vis.baidu.com/)**.
 - ✨ Envisioning Vision Foundation Models & Semi-supervised Learning & 3D-Vision (NeRF / 3D-GS).
 - 📫 Reach me via [Mail](lifugan_10027@outlook.com).
-- ⚠️ Looking for **Visiting Student or Internship Opportunities**!!
+- ⚠️ Looking for **Visiting Student or Internship Opportunities in Spring, 2025**!!
 
 #### 📑 Top Repositories
 <a href="https://github.com/lifuguan/autonomus_transport_industrial_system">
