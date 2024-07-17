@@ -1,11 +1,11 @@
 #### Hi there 👋
 
 - 🎓 I'm a **2-Year PhD candidate @ [Northwestern Polytechnical University (NPU)](http://nwpu.edu.cn/)**,</br>
-&nbsp; &nbsp; &nbsp; under the mentorship of **Prof. [Dingwen Zhang](https://zdw-nwpu.github.io/dingwenz.github.com/) and Prof. [Junewi Han](https://scholar.google.com/citations?hl=zh-CN&user=xrqsoesAAAAJ)**.
-- ⚗️ Research internship @ **[VIS, Baidu Inc.](https://vis.baidu.com/)**.
+&nbsp; &nbsp; &nbsp; under the mentorship of **Prof. [Dingwen Zhang](https://zdw-nwpu.github.io/dingwenz.github.com/) and Prof. [Junewi Han](https://scholar.google.com/citations?hl=zh-CN&user=xrqsoesAAAAJ) (IEEE Fellow)**.
+- ⚗️ Research internship @ **[VIS, Baidu Inc.](https://vis.baidu.com/)**, led by Dr. [Chenming Wu](https://chenming-wu.github.io/) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) (IEEE Fellow).
 - ✨ Envisioning Vision Foundation Models & Semi-supervised Learning & 3D-Vision (NeRF / 3D-GS).
 - 📫 Reach me via [Mail](lifugan_10027@outlook.com).
-- ⚠️ Looking for **Visiting Student or Internship Opportunities in Spring, 2025**!!
+- ⚠️ Right now I'm ooking for **Visiting Student or Internship Opportunities Starting in Spring, 2025**!!
 
 #### 📑 Top Repositories
 <a href="https://github.com/lifuguan/autonomus_transport_industrial_system">
