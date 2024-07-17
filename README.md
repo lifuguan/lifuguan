@@ -7,13 +7,9 @@
 - 📫 Reach me via [Mail](lifugan_10027@outlook.com).
 - ⚠️ Right now I'm ooking for **Visiting Student or Internship Opportunities Starting in Spring, 2025**!!
 
-#### 📑 Top Repositories
-<a href="https://github.com/lifuguan/autonomus_transport_industrial_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lifuguan&repo=autonomus_transport_industrial_system&theme=buefy" />
-</a>
-<a href="https://github.com/lifuguan/SOLOv2-mmdet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lifuguan&repo=SOLOv2-mmdet&theme=buefy" />
-</a>
+#### 📟  Language and Profile
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lifuguan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
